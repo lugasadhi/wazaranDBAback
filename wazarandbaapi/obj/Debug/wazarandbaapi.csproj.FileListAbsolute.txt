@@ -1,0 +1,17 @@
+D:\dba\wazarandbaapi\wazarandbaapi\bin\wazarandbaapi.dll.config
+D:\dba\wazarandbaapi\wazarandbaapi\bin\wazarandbaapi.dll
+D:\dba\wazarandbaapi\wazarandbaapi\bin\wazarandbaapi.pdb
+D:\dba\wazarandbaapi\wazarandbaapi\bin\Newtonsoft.Json.dll
+D:\dba\wazarandbaapi\wazarandbaapi\bin\System.Net.Http.Formatting.dll
+D:\dba\wazarandbaapi\wazarandbaapi\bin\System.Web.Cors.dll
+D:\dba\wazarandbaapi\wazarandbaapi\bin\System.Web.Http.Cors.dll
+D:\dba\wazarandbaapi\wazarandbaapi\bin\System.Web.Http.dll
+D:\dba\wazarandbaapi\wazarandbaapi\bin\System.Web.Http.WebHost.dll
+D:\dba\wazarandbaapi\wazarandbaapi\bin\Newtonsoft.Json.xml
+D:\dba\wazarandbaapi\wazarandbaapi\bin\System.Net.Http.Formatting.xml
+D:\dba\wazarandbaapi\wazarandbaapi\bin\System.Web.Http.xml
+D:\dba\wazarandbaapi\wazarandbaapi\bin\System.Web.Http.Cors.xml
+D:\dba\wazarandbaapi\wazarandbaapi\bin\System.Web.Http.WebHost.xml
+D:\dba\wazarandbaapi\wazarandbaapi\obj\Debug\wazarandbaapi.csprojResolveAssemblyReference.cache
+D:\dba\wazarandbaapi\wazarandbaapi\obj\Debug\wazarandbaapi.dll
+D:\dba\wazarandbaapi\wazarandbaapi\obj\Debug\wazarandbaapi.pdb
